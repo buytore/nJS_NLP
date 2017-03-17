@@ -3,7 +3,6 @@
  */
 var natural = require('natural');
 var natural = require('natural'), TfIdf = natural.TfIdf, tfidf = new TfIdf();
-var nlp = require('nlp-toolkit');
 var fs = require('fs');
 
 
